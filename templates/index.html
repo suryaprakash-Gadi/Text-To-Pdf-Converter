@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text to PDF Converter</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+</head>
+<body>
+    <h1>Text to PDF Converter</h1>
+    <form action="/convert" method="post">
+        <textarea name="text" placeholder="Enter your text..." rows="10" cols="50" required></textarea>
+        <br>
+        <input type="submit" value="Convert to PDF">
+    </form>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text to pdf converter-Result</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='result.css') }}">
+
+
+     
+</head>
+<body>
+    <h1>Conversion - Result</h1>
+    <p>Your text has been converted to PDF successfully!</p>
+    <p><a href="{{ url_for('download_pdf', filename=pdf_file) }}">Download PDF</a></p>
+</body>
+</html>
