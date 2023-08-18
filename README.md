@@ -12,17 +12,15 @@ File Upload and Conversion: Upload text files from your computer and receive a c
 Instant Download: Once the conversion is complete, users can instantly download their newly converted PDF files.
 Responsive Design: The website is optimized for various devices, including desktops, tablets, and smartphones.
 ## How to Use
-Access the Website: Open your preferred web browser and go to [https://github.com/suryaprakash-Gadi/Text-To-Pdf-Converter].
-
-convert Text File: Click on the "convert" button or drag-and-drop your text file into the designated area.
+convert Text File: Type your text file in the designated area and click on "convert" button.
 
 Conversion: The website will process the file and convert it to PDF format automatically.
 
 Download: Once the conversion is complete, click on the "Download" button to save the PDF file to your device.
 
-Start Over: To convert another text file, click on the "Back" button or repeat steps 2-4.
+Start Over: To convert another text file, click on the "Back" button or repeat steps 1-4.
 
-
+`Follow this steps or see the below demo video to understand easily`
 ## Technologies Used
 - Html
 - Css
